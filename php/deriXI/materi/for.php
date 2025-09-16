@@ -1,4 +1,0 @@
-<?php
-for ($i = 1; $i <= 5; $i++) {
-    echo "perulangan ke-$i <br>";
-}
